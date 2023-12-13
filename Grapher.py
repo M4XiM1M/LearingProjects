@@ -1,5 +1,4 @@
 import turtle
-import re
 
 window = turtle.Screen()
 WIN_WIDTH = 800
